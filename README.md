@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Network Stat
 
 Welcome to Network Stat Project 
@@ -34,3 +35,7 @@ If you are interested to contribute in this project, then you can reach out to m
 
 ### Code and Inspiration
 [vik-y](https://github.com/vik-y/network-stat). This is for testing purpose finally I will be putting PR for the updates in the original project.
+
+# network-status-systems
+Get network related information from systems for college.
+

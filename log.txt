@@ -1,0 +1,105 @@
+15:57:21,327 INFO Wifi Interface was present
+15:57:21,328 INFO 43
+15:57:21,332 INFO Wifi Interface Name is wlan0
+15:57:21,349 INFO Device IPv4 address obtained
+15:57:21,349 INFO 172.16.86.113
+15:57:21,352 INFO Wifi Interface Name is wlan0
+15:57:21,357 INFO Device subnet mask obtained
+15:57:21,358 INFO 255.255.252.0
+15:57:21,363 INFO Wifi Interface Name is wlan0
+15:57:21,365 INFO Device Mac retrieved
+15:57:21,366 INFO a0:88:69:59:a5:83
+15:57:21,368 INFO Wifi Interface was present
+15:57:21,368 INFO 58:20:B1:10:D2:E1
+15:57:21,371 INFO Wifi Interface was present
+15:57:21,371 INFO Interface Name: "IIITB-Zone-BM"
+16:04:44,390 INFO Wifi Interface was present
+16:04:44,391 INFO 51
+16:04:44,394 INFO Wifi Interface Name is wlan0
+16:04:44,398 INFO Device IPv4 address obtained
+16:04:44,398 INFO 172.16.86.113
+16:04:44,401 INFO Wifi Interface Name is wlan0
+16:04:44,405 INFO Device subnet mask obtained
+16:04:44,406 INFO 255.255.252.0
+16:04:44,409 INFO Wifi Interface Name is wlan0
+16:04:44,413 INFO Device Mac retrieved
+16:04:44,413 INFO a0:88:69:59:a5:83
+16:04:44,417 INFO Wifi Interface was present
+16:04:44,417 INFO 58:20:B1:10:D2:E1
+16:04:44,420 INFO Wifi Interface was present
+16:04:44,421 INFO Interface Name: "IIITB-Zone-BM"
+02:13:04,998 INFO Wifi Interface was present
+02:13:04,998 INFO 47
+02:13:05,1 INFO Wifi Interface Name is wlan0
+02:13:05,15 INFO Device IPv4 address obtained
+02:13:05,15 INFO 192.168.43.101
+02:13:05,19 INFO Wifi Interface Name is wlan0
+02:13:05,22 INFO Device subnet mask obtained
+02:13:05,22 INFO 255.255.255.0
+02:13:05,25 INFO Wifi Interface Name is wlan0
+02:13:05,31 INFO Device Mac retrieved
+02:13:05,32 INFO a0:88:69:59:a5:83
+02:13:05,38 INFO Wifi Interface was present
+02:13:05,38 INFO C0:EE:FB:72:6A:F8
+02:13:05,41 INFO Wifi Interface was present
+02:13:05,42 INFO Interface Name: "cool"
+02:19:47,217 INFO Wifi Interface was present
+02:19:47,217 INFO 46
+02:19:47,221 INFO Wifi Interface Name is wlan0
+02:19:47,224 INFO Device IPv4 address obtained
+02:19:47,225 INFO 192.168.43.101
+02:19:47,227 INFO Wifi Interface Name is wlan0
+02:19:47,230 INFO Device subnet mask obtained
+02:19:47,230 INFO 255.255.255.0
+02:19:47,234 INFO Wifi Interface Name is wlan0
+02:19:47,238 INFO Device Mac retrieved
+02:19:47,238 INFO a0:88:69:59:a5:83
+02:19:47,242 INFO Wifi Interface was present
+02:19:47,242 INFO C0:EE:FB:72:6A:F8
+02:19:47,246 INFO Wifi Interface was present
+02:19:47,246 INFO Interface Name: "cool"
+02:31:21,960 INFO Wifi Interface was present
+02:31:21,961 INFO 49
+02:31:21,966 INFO Wifi Interface Name is wlan0
+02:31:21,971 INFO Device IPv4 address obtained
+02:31:21,971 INFO 192.168.43.101
+02:31:21,979 INFO Wifi Interface Name is wlan0
+02:31:21,982 INFO Device subnet mask obtained
+02:31:21,983 INFO 255.255.255.0
+02:31:21,985 INFO Wifi Interface Name is wlan0
+02:31:21,991 INFO Device Mac retrieved
+02:31:21,991 INFO a0:88:69:59:a5:83
+02:31:21,999 INFO Wifi Interface was present
+02:31:21,999 INFO C0:EE:FB:72:6A:F8
+02:31:22,2 INFO Wifi Interface was present
+02:31:22,2 INFO Interface Name: "cool"
+02:32:04,173 INFO Wifi Interface was present
+02:32:04,174 INFO 50
+02:32:04,179 INFO Wifi Interface Name is wlan0
+02:32:04,184 INFO Device IPv4 address obtained
+02:32:04,184 INFO 192.168.43.101
+02:32:04,187 INFO Wifi Interface Name is wlan0
+02:32:04,190 INFO Device subnet mask obtained
+02:32:04,190 INFO 255.255.255.0
+02:32:04,193 INFO Wifi Interface Name is wlan0
+02:32:04,196 INFO Device Mac retrieved
+02:32:04,196 INFO a0:88:69:59:a5:83
+02:32:04,199 INFO Wifi Interface was present
+02:32:04,199 INFO C0:EE:FB:72:6A:F8
+02:32:04,202 INFO Wifi Interface was present
+02:32:04,202 INFO Interface Name: "cool"
+02:34:42,543 INFO Wifi Interface was present
+02:34:42,544 INFO 46
+02:34:42,547 INFO Wifi Interface Name is wlan0
+02:34:42,550 INFO Device IPv4 address obtained
+02:34:42,550 INFO 192.168.43.101
+02:34:42,552 INFO Wifi Interface Name is wlan0
+02:34:42,556 INFO Device subnet mask obtained
+02:34:42,556 INFO 255.255.255.0
+02:34:42,559 INFO Wifi Interface Name is wlan0
+02:34:42,562 INFO Device Mac retrieved
+02:34:42,562 INFO a0:88:69:59:a5:83
+02:34:42,572 INFO Wifi Interface was present
+02:34:42,572 INFO C0:EE:FB:72:6A:F8
+02:34:42,577 INFO Wifi Interface was present
+02:34:42,577 INFO Interface Name: "cool"

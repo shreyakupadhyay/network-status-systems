@@ -31,3 +31,6 @@ This repository only deals with the data collection part. There's a different re
 
 ### Contributor Notes
 If you are interested to contribute in this project, then you can reach out to me at vikas.yadav@iiitb.org. Also there are various comments in code which tells what is not implemented yet, you can pick that up and raise a pull request when you are done. As of now there's no fixed architecture for this project, comments and suggestions regarding improving the architecture of the project are most welcome. 
+
+### Code and Inspiration
+[vik-y](https://github.com/vik-y/network-stat). This is for testing purpose finally I will be putting PR for the updates in the original project.

@@ -153,9 +153,16 @@ def uploadData(data, url, location="google_form"):
     if location=="google_form":
         # TODO: Form components are hard coded in code right now. Find mechanisms to remove this hardcoding.
         payload = {
-            'entry.1368613020' : data["key"],
-            'entry.1038090537' : data["mac"],
-            'entry.66241573': str(data),
+            'entry.1876057074': data["name"],
+            'entry.970237387': data["roll_no"],
+            'entry.1289129617': data["room_no"],
+            'entry.481072609' : data["mac"],
+            'entry.1859586981':data["ip"],
+            'entry.618303194':data["subnet"],
+            'entry.550422181':data["ap_mac"],
+            'entry.1484562710':data["ap_name"],
+            'entry.1555128067':data["linkQuality"],
+            'entry.35380902': data['debug'],
             'draftResponse': '[]',
             'pageHistory': 0,
         }

@@ -9,10 +9,12 @@ if __name__ == '__main__':
         key, value = [x.strip() for x in line.split(',')]
         config[key] = value
 
-    print config
     if internetOn():
         data = collectData()
         data["key"] = config["key"]
+        data["name"] = raw_input("Enter your Name: ")
+        data["roll_no"] = raw_input("Enter your Roll No: ")
+        data["room_no"] = raw_input("Enter your Room No: ")
         print data
         if uploadData(data, config["google_form_url"], location="google_form"):
            print "Data uploaded succesfully"
